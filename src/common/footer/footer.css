@@ -1,0 +1,79 @@
+footer {
+  background-color: #0f3460;
+  padding: 100px 0;
+  color: #fff;
+}
+
+footer h1 {
+  margin-bottom: 30px;
+  color: tomato;
+  font-weight: 500;
+  font-style: italic;
+}
+
+footer .img {
+  background-color: #0c2a4d;
+  padding: 15px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+footer .img i {
+  font-size: 20px;
+  margin: 5px;
+}
+
+footer .img span {
+  margin-top: 5px;
+}
+
+footer p {
+  font-size: 14px;
+  font-weight: 300;
+  opacity: 0.5s;
+  margin-bottom: 20px;
+}
+
+footer h2 {
+  margin-bottom: 20px;
+}
+
+footer li {
+  margin-bottom: 10px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+footer form {
+  margin-top: 20px;
+  text-align: center;
+}
+
+footer form input {
+  padding: 20px;
+  margin-top: 20px;
+  width: 40%;
+  border-radius: 10px;
+}
+
+footer form button {
+  margin-left: 10px;
+  padding: 20px;
+  font-size: 15px;
+  background-color: tomato;
+  color: #fff;
+  border: none;
+  transition: 0.5s;
+  border-radius: 10px;
+  margin-bottom: 40px;
+}
+
+footer form button:hover {
+  color: tomato;
+  background-color: #fff;
+}
+
+footer .love {
+  font-size: 15px;
+  text-align: center;
+}
